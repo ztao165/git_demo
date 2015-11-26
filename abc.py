@@ -1,2 +1,2 @@
-new file
+new file by branch dev
 amend file
