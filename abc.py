@@ -4,4 +4,5 @@ tests
 test
 branch dev
 after branch dev 1
+branch dev 2
 after branch dev 2
