@@ -15,3 +15,4 @@ add new line3
 add new line4
 
 add squash2
+add squash3
