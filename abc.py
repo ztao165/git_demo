@@ -24,3 +24,4 @@ test3
 test4
 
 rebase 1
+rebase 2
