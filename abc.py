@@ -20,3 +20,5 @@ add squash4
 add squash5
 test
 test2
+test3
+test4
