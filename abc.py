@@ -11,3 +11,22 @@ after branch dev 3
 add new line
 add new line2
 add new line3
+
+add new line4
+
+add squash2
+add squash3
+add squash4
+add squash5
+test
+test2
+test3
+test4
+
+rebase 1
+rebase 2
+rebase 3
+
+ztao 1
+ztao 23
+ztao aa
