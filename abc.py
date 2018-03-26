@@ -1,4 +1,4 @@
-new file by branch master
+new2 file by branch master
 amend file
 tests
 test
