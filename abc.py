@@ -36,3 +36,4 @@ merge test
 rebase test
 
 merge remote branch
+merge remote branch v2
