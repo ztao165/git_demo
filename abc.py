@@ -15,14 +15,14 @@ add new line3
 
 add new line4
 
-add squash2
-add squash3
-add squash4
-add squash5
-test
-test2
-test3
-test4
+ add squash2
+ add squash3
+ add squash4
+ add squash5
+ test
+ test2
+ test3
+ test4
 
 rebase 1
 rebase 2
