@@ -1,11 +1,14 @@
 <?php
 
-class Action {
-    function __construct() {
+class Action
+{
+    public function __construct()
+    {
         hello("abc");
     }
 
-    function hello(int $abc) {
+    public function hello(int $abc)
+    {
         echo $abc;
     }
 }
