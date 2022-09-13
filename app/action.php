@@ -4,7 +4,7 @@ class Action
 {
     public function __construct()
     {
-        hello("abc");
+        hello(123);
     }
 
     public function hello(int $abc)
