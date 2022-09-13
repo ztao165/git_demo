@@ -1,6 +1,6 @@
 <?php
 
-class Action() {
+class Action {
     function __construct() {
         hello("abc");
     }
